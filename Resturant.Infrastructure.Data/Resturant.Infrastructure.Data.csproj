@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Resturant.Domain.Interfaces\Resturant.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\Together_DB.Context\Together_DB.Context.csproj" />
+  </ItemGroup>
+
+</Project>

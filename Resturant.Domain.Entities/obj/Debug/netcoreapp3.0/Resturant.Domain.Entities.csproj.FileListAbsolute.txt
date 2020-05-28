@@ -1,0 +1,16 @@
+F:\Project + Practice\Together\Server\Together\Resturant.Domain.Entities\bin\Debug\netcoreapp3.0\Resturant.Domain.Entities.deps.json
+F:\Project + Practice\Together\Server\Together\Resturant.Domain.Entities\bin\Debug\netcoreapp3.0\Resturant.Domain.Entities.dll
+F:\Project + Practice\Together\Server\Together\Resturant.Domain.Entities\bin\Debug\netcoreapp3.0\Resturant.Domain.Entities.pdb
+F:\Project + Practice\Together\Server\Together\Resturant.Domain.Entities\obj\Debug\netcoreapp3.0\Resturant.Domain.Entities.AssemblyInfoInputs.cache
+F:\Project + Practice\Together\Server\Together\Resturant.Domain.Entities\obj\Debug\netcoreapp3.0\Resturant.Domain.Entities.AssemblyInfo.cs
+F:\Project + Practice\Together\Server\Together\Resturant.Domain.Entities\obj\Debug\netcoreapp3.0\Resturant.Domain.Entities.dll
+F:\Project + Practice\Together\Server\Together\Resturant.Domain.Entities\obj\Debug\netcoreapp3.0\Resturant.Domain.Entities.pdb
+F:\Project + Practice\Together\Server\Together\Resturant.Domain.Entities\obj\Debug\netcoreapp3.0\Resturant.Domain.Entities.csprojAssemblyReference.cache
+F:\Project + Practice\Together\Server\Resturant.Domain.Entities\bin\Debug\netcoreapp3.0\Resturant.Domain.Entities.deps.json
+F:\Project + Practice\Together\Server\Resturant.Domain.Entities\bin\Debug\netcoreapp3.0\Resturant.Domain.Entities.dll
+F:\Project + Practice\Together\Server\Resturant.Domain.Entities\bin\Debug\netcoreapp3.0\Resturant.Domain.Entities.pdb
+F:\Project + Practice\Together\Server\Resturant.Domain.Entities\obj\Debug\netcoreapp3.0\Resturant.Domain.Entities.csprojAssemblyReference.cache
+F:\Project + Practice\Together\Server\Resturant.Domain.Entities\obj\Debug\netcoreapp3.0\Resturant.Domain.Entities.AssemblyInfoInputs.cache
+F:\Project + Practice\Together\Server\Resturant.Domain.Entities\obj\Debug\netcoreapp3.0\Resturant.Domain.Entities.AssemblyInfo.cs
+F:\Project + Practice\Together\Server\Resturant.Domain.Entities\obj\Debug\netcoreapp3.0\Resturant.Domain.Entities.dll
+F:\Project + Practice\Together\Server\Resturant.Domain.Entities\obj\Debug\netcoreapp3.0\Resturant.Domain.Entities.pdb

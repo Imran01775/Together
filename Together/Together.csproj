@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Resturant.Domain.Entities\Resturant.Domain.Entities.csproj" />
+    <ProjectReference Include="..\Resturant.Domain.Interfaces\Resturant.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\Resturant.Infrastructure.Data\Resturant.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\Resturant.Services.Interfaces\Resturant.Services.Interfaces.csproj" />
+    <ProjectReference Include="..\Resturant.Services\Resturant.Services.csproj" />
+    <ProjectReference Include="..\Together_DB.Context\Together_DB.Context.csproj" />
+  </ItemGroup>
+
+</Project>
